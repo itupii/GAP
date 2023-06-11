@@ -42,7 +42,7 @@ Durante o desenvolvimento também foram criados BPMNs para melhor descrever o fl
 
 Minha Experiência foi muito positiva onde eu ao meu ponto de vista tive uma boa participação apesar das dificuldades encontradas no decorrer do caminho.
 
-Nessa api meu foco foi totalmente no back-end com o meu parceiro André , onde o nosso principal objetivo foi a criação do CRUD em java e utilizando a ferramenta do Spring, com muitas imersões e videos conseguimos criá-lo e ao decorrer das outras sprints foi o foco principal um maior refinamento e adições de algumas outrs funções concluídas com exito ao final deste projeto.
+Nessa api meu foco foi totalmente no back-end com o meu parceiro André , onde o nosso principal objetivo foi a criação do CRUD em java e utilizando a ferramenta do Spring, com muitas imersões e videos conseguimos criá-lo e ao decorrer das outras sprints foi o foco principal um maior refinamento e adições de algumas outras funções concluídas com exito ao final deste projeto.
  </h2>
 
  <h1>Aprendizado</h1>
@@ -88,7 +88,7 @@ SoftSkills adquiridas:
 Responsabilidades: 
 <br>
 
-Participei de reuniões diárias para u maior entendimeto e andamento do projeto juntamente a equipe, responsabilidade sobre pegar tasks e adiantar pontos para facilitar meus colegas de equipe. 
+Participei de reuniões diárias para um maior entendimeto e andamento do projeto juntamente a equipe, responsabilidade sobre pegar tasks e adiantar pontos para facilitar meus colegas de equipe. 
 
 
 <br>
@@ -100,7 +100,7 @@ Participação e proatividade foi algo fundamental em nossa equipe para que gera
 Evolução de competências:
 <br>
 
-Exercitei compentências como proatividade, autonomia e resiliência durante todo desenvolvimento do projeto através de estudos, entregas e planejamento, isso me tornou cada vez mais maduro e capacitado para ajudar meus colegas ao decorrer da nossa sprint para entregar o melhor resuktado no final.
+Exercitei compentências como proatividade, autonomia e resiliência durante todo desenvolvimento do projeto através de estudos, entregas e planejamento, isso me tornou cada vez mais maduro e capacitado para ajudar meus colegas ao decorrer da nossa sprint para entregar o melhor resultado no final.
 
 </h2>
 
