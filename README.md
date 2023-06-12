@@ -83,6 +83,7 @@ Versionamento de código e projeto;
 
 <h2>
 SoftSkills adquiridas:
+ -------------------------
 
 <br>
 Responsabilidades: 
