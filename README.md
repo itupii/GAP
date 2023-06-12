@@ -14,9 +14,9 @@
 <h2>Resumo e objetivo </h2>
 
 
-Esse projeto foi desenvolvido em parceria com a empresa Pro4Tech.
+<h2>Esse projeto foi desenvolvido em parceria com a empresa Pro4Tech.
 
-O objetivo do projeto era desenvolver uma aplicação capaz de realizar a gestão financeira de clientes cadastrados. Esse sistema deve permitir o cadastro de clientes, a geração de parcelas de acordo com o serviço adquirido, pagamentos fictícios, monitoramento do ciclo de vida das parcelas e apresentação de relatórios acerca das parcelas para análises.
+O objetivo do projeto era desenvolver uma aplicação capaz de realizar a gestão financeira de clientes cadastrados. Esse sistema deve permitir o cadastro de clientes, a geração de parcelas de acordo com o serviço adquirido, pagamentos fictícios, monitoramento do ciclo de vida das parcelas e apresentação de relatórios acerca das parcelas para análises.</h2>
 
 ---------------------------------------
 
