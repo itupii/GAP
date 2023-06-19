@@ -14,7 +14,7 @@
   <p> Consistiu-se em um sistema de assistência para problemas de TI, onde qualquer pessoa poderia criar um cadastro, enviar suas dúvidas para um funcionário da empresa de assistência e designar uma nota pela resposta recebida. Esses funcionários, por sua vez, eram administrados pelo administrador do sistema que possuía acesso a todas as dúvidas respondidas ou não de cada funcionário, além de acesso à gráficos de percentual de solicitações atendidas, recusadas e em aberto, de evolução do número de solicitações</p>
   <br>
   <h3> Problemas apresentados: 
-A ausência de um sistema eficiente de suporte em TI foi o principal obstáculo para lidar com os desafios técnicos enfrentados pelos usuários da empresa. Frequentemente, os colaboradores não possuíam o conhecimento adequado para solucionar tais problemas de forma satisfatória, o que resultava em atrasos e insatisfação por parte dos clientes. Além disso, não existia um método efetivo para supervisionar e avaliar o desempenho dos funcionários no atendimento aos chamados de suporte.</g3>
+A ausência de um sistema eficiente de suporte em TI foi o principal obstáculo para lidar com os desafios técnicos enfrentados pelos usuários da empresa. Frequentemente, os colaboradores não possuíam o conhecimento adequado para solucionar tais problemas de forma satisfatória, o que resultava em atrasos e insatisfação por parte dos clientes. Além disso, não existia um método efetivo para supervisionar e avaliar o desempenho dos funcionários no atendimento aos chamados de suporte.</h3>
 
 <br>
 
@@ -33,17 +33,18 @@ Com o intuito de superar essas dificuldades, implementamos um sistema abrangente
 
 <hr>
 <div>
-  <h2> 2022 /  2semestre  -- Midnight Technology   - Crawler</h2>
+  <h3> <strong>2022 /  2semestre  -- Midnight Technology   - Crawler</strong></h3>
   <p> se configura em um Crawler com sistema de gerenciamento de associados, que compreende em um sistema que consiga buscar, ler o arquivo e distinguir o conteúdo referente aos Professores Associados, realizar os cruzamentos essenciais de acordo com as bases de dados de colaboradores que carregam está explicação, registrar todos os processos publicados relacionados aos associados, e emitir relatório diário para que a equipe do Backoffice consiga disparar os e-mails para os docentes citados no Diário Oficial </p>
-  <div align="center">
-  <br>
+ 
 
-   <h3> Problemas apresentados: 
-A empresa MidAll trouxe à tona um desafio significativo e intricado: o sindicato dos professores encontrava obstáculos ao rastrear e registrar as menções dos seus membros no extenso Diário Oficial do Estado de São Paulo. Reconhecendo a relevância dessa atividade para o sindicato, eu e minha equipe desenvolvemos um Crawler personalizado que automatizou esse procedimento e passou a gerar relatórios diários das incidências encontradas..</h3>
+<div>
+<h3> <strong>Problemas apresentados:</strong></h3> 
+<h3><p> A empresa MidAll trouxe à tona um desafio significativo e intricado: o sindicato dos professores encontrava obstáculos ao rastrear e registrar as menções dos seus membros no extenso Diário Oficial do Estado de São Paulo. Reconhecendo a relevância dessa atividade para o sindicato, eu e minha equipe desenvolvemos um Crawler personalizado que automatizou esse procedimento e passou a gerar relatórios diários das incidências encontradas.. </p></h3>
+
 
 <br>
 
-<h3>Solução: 
+<h3><strong>Solução:</strong>
 A solução proposta pelo nosso grupo foi montar um sistema de bots onde  cada um tem uma função específca, nossa lógica foi fazer que diariamente entrasse no Diário Oficial de São paulo, prcurasse o nome do funcionário, baixa o pdf onde ele está presente e manda para ele por email a parte onde ele foi citado.</h3>
 <br>
     
@@ -63,21 +64,21 @@ A solução proposta pelo nosso grupo foi montar um sistema de bots onde  cada u
   <p> A partir da apresentação do desafio enfrentado pela empresa parceira, a solução desenvolvida se configura em um sistema de cobrança de parcelas, no qual, um usuário do tipo comercial fará o cadastro de clientes fictícios, o sistema gerará parcelas para o pagamento de um serviço, também fictício, e um outro usuário, do tipo financeiro, ficará responsável por gerenciar os pagamentos das parcelas, bem como, monitorar o ciclo de vida delas através de relatórios e funções similares. O sistema, então, deve englobar todas essas funcionalidades e apresentá-las de maneira simples e satisfatória, seguindo as regras de negócio e os requisitos estabelecidos. </p>
   <br>
 
-  <h3> Problemas apresentados: 
+  <h3> <strong>Problemas apresentados:</strong>
 Em parceria com a equipe da Pro4Tech, nos empenhamos no desenvolvimento de um sistema que solucionasse essas questões. Foi realizado um estudo minucioso das necessidades da empresa, levando em consideração os desafios enfrentados e as melhorias desejadas. A partir dessas informações, trabalhamos no desenvolvimento de um sistema de gerenciamento de cobranças abrangente e eficiente.</h3>
 
 <br>
 
-<h3>Solução: 
+<h3><strong>Solução:</strong>
 Desenvolvemos um sistema que possibilita o cadastro de usuários, clientes e títulos, simplificando o controle e a visualização das informações relacionadas às cobranças. Além disso, incorporamos funcionalidades que permitem o registro das parcelas a serem recebidas e a criação de relatórios de cobrança personalizados, levando em conta diversos critérios de pesquisa.</h3>
 <br>
    gif do projeto a ser colocado
   <br>
-  <h3> Minhas Participações: </h3>
-  <p> Nesse terceiro projeto Novamente fui back-end onde trabalhamos com a linguagem java se seu microserviço Spring,  nela fui responsavel pela criação do crud e refinamento ds lógicas sobre as parcelas , ordenando pela data de vencimento,  à pagar e as parcelas vencidas, onde também aprendi usar uma extensão java chamado de SpringTollsSuit
-  <li> <strong> Hardskills: desenvolvi melhores práticas e lógica de  programação, além de aprendizado com o uso de banco de dados na nuvem Insominia e H2 database, e um aperfeiçoamento dos meus conhecimentos em java  e jwt security</strong>  </li>
+  <h3> <strong>Minhas Participações: </strong></h3>
+  <p> Nesse terceiro projeto Novamente fui back-end onde trabalhamos com a linguagem java se seu microserviço Spring,  nela fui responsavel pela criação do crud e refinamento ds lógicas sobre as parcelas , ordenando pela data de vencimento,  à pagar e as parcelas vencidas, onde também aprendi usar uma extensão java chamado de SpringTollsSuit, e a utilização do jwt security
+  <li> <strong> Hardskills:</strong> desenvolvi melhores práticas e lógica de  programação, aprendi sobre o funcionamento e diferença  das funções BigDecimal  e string e qual desempenharia uma melhor função dentro do sitema, além de aprendizado com o uso de banco de dados na nuvem Insominia e H2 database para a demonstração de funcionalidades requisitadas pelo cliente e boas práticas  e na estrutura de arquivos e pastas dentro do java para um funcionamento </li>
   <br>
-  <li> <strong> Softskills: </strong> adquiri melhores habilidades de  proatividade, organização, resolução de problemas, comunicação e responsabilidade.  </li>
+  <li> <strong> Softskills: </strong> adquiri melhores habilidades de  proatividade ainda mais na reta final onde tínhamos que revisar todo projeto  e finalizar as tasks, organização, resolução de problemas, comunicação e responsabilidade sobre o que tinha que ser realizado, senti a importância de ajudar pois a reta final do projeto determinaria se nosso projeto seria validado ou não, também ter a consciência que um erro meu ou de qualquer um poderia acarretar problemas para todos nós   </li>
 </div>
 <br>
 
